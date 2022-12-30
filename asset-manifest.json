@@ -1,8 +1,7 @@
 {
   "files": {
-    "main.css": "/jasoncameron.dev/static/css/main.077f2ce9.css",
-    "main.js": "/jasoncameron.dev/static/js/main.497bd2ab.js",
-    "static/js/787.1ed0c42c.chunk.js": "/jasoncameron.dev/static/js/787.1ed0c42c.chunk.js",
+    "main.css": "/jasoncameron.dev/static/css/main.d1a2708d.css",
+    "main.js": "/jasoncameron.dev/static/js/main.5b9e4e3e.js",
     "static/media/about.png": "/jasoncameron.dev/static/media/about.4dc2a7c83496a84503fe.png",
     "static/media/metropolis.png": "/jasoncameron.dev/static/media/metropolis.3e71879a4f51c93b9ba6.png",
     "static/media/videobot.png": "/jasoncameron.dev/static/media/videobot.0506c57f58eca946abea.png",
@@ -14,12 +13,11 @@
     "static/media/resume.pdf": "/jasoncameron.dev/static/media/resume.294b7658d69ecbaac2fa.pdf",
     "index.html": "/jasoncameron.dev/index.html",
     "static/media/pre.svg": "/jasoncameron.dev/static/media/pre.d32c5e1816549256c6c4.svg",
-    "main.077f2ce9.css.map": "/jasoncameron.dev/static/css/main.077f2ce9.css.map",
-    "main.497bd2ab.js.map": "/jasoncameron.dev/static/js/main.497bd2ab.js.map",
-    "787.1ed0c42c.chunk.js.map": "/jasoncameron.dev/static/js/787.1ed0c42c.chunk.js.map"
+    "main.d1a2708d.css.map": "/jasoncameron.dev/static/css/main.d1a2708d.css.map",
+    "main.5b9e4e3e.js.map": "/jasoncameron.dev/static/js/main.5b9e4e3e.js.map"
   },
   "entrypoints": [
-    "static/css/main.077f2ce9.css",
-    "static/js/main.497bd2ab.js"
+    "static/css/main.d1a2708d.css",
+    "static/js/main.5b9e4e3e.js"
   ]
 }
