@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/jasoncameron.dev/static/css/main.67c129fc.css",
-    "main.js": "/jasoncameron.dev/static/js/main.bea5479c.js",
+    "main.css": "/jasoncameron.dev/static/css/main.c65e418b.css",
+    "main.js": "/jasoncameron.dev/static/js/main.db19fe60.js",
     "static/media/about.png": "/jasoncameron.dev/static/media/about.4dc2a7c83496a84503fe.png",
     "static/media/metropolis.png": "/jasoncameron.dev/static/media/metropolis.3e71879a4f51c93b9ba6.png",
     "static/media/videobot.png": "/jasoncameron.dev/static/media/videobot.0506c57f58eca946abea.png",
@@ -13,11 +13,11 @@
     "static/media/resume.pdf": "/jasoncameron.dev/static/media/resume.294b7658d69ecbaac2fa.pdf",
     "static/media/pre.svg": "/jasoncameron.dev/static/media/pre.f060820ef2cbaa23575b.svg",
     "index.html": "/jasoncameron.dev/index.html",
-    "main.67c129fc.css.map": "/jasoncameron.dev/static/css/main.67c129fc.css.map",
-    "main.bea5479c.js.map": "/jasoncameron.dev/static/js/main.bea5479c.js.map"
+    "main.c65e418b.css.map": "/jasoncameron.dev/static/css/main.c65e418b.css.map",
+    "main.db19fe60.js.map": "/jasoncameron.dev/static/js/main.db19fe60.js.map"
   },
   "entrypoints": [
-    "static/css/main.67c129fc.css",
-    "static/js/main.bea5479c.js"
+    "static/css/main.c65e418b.css",
+    "static/js/main.db19fe60.js"
   ]
 }
